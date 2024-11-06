@@ -12,9 +12,6 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
         style={{
           backgroundColor: 'white',
           border: '1px solid black',
-          padding: '10px',
-          width: '100px',
-          height: '100px',
         }}
       >
         Dropdown Content
