@@ -35,6 +35,7 @@ export const DropdownContent: React.FC<DropdownContentProps> = ({
         opacity: isOpen ? 1 : 0,
         position: 'absolute',
         visibility: isOpen ? 'visible' : 'hidden',
+        zIndex: 1,
         ...style,
       }}
       {...props}
