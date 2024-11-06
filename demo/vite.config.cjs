@@ -17,7 +17,7 @@ export default ({ mode }) => {
     },
     resolve: {
       alias: {
-        '@invx-ui/boilerplate': path.resolve(__dirname, '../dist/index.js'),
+        '@invx-ui/dropdown': path.resolve(__dirname, '../dist/index.js'),
       }
     }
   });

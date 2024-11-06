@@ -4,7 +4,7 @@ export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElemen
 
 }
 
-export const Button: React.FC<ButtonProps> = ({ type, ...props }) => (
+export const Dropdown: React.FC<ButtonProps> = ({ type, ...props }) => (
   <button
     // eslint-disable-next-line react/button-has-type
     type={type}

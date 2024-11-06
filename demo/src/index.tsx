@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { Button } from '@invx-ui/boilerplate'
+import { Dropdown } from '@invx-ui/dropdown'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <Button>
+    <Dropdown>
       Button Content
-    </Button>
+    </Dropdown>
   </React.StrictMode>,
 );

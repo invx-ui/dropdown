@@ -1,8 +1,8 @@
 {
-  "name": "@invx-ui/boilerplate",
+  "name": "@invx-ui/dropdown",
   "version": "0.0.0",
-  "description": "Boilerplate for creating new Innovixx UI modules",
-  "repository": "git@github.com:invx-ui/boilerplate.git",
+  "description": "Dropdown for creating new Innovixx UI modules",
+  "repository": "git@github.com:invx-ui/dropdown.git",
   "author": "Innovixx <contact@innovixx.co.uk>",
   "type": "module",
   "main": "dist/index.js",
